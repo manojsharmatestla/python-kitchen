@@ -1,0 +1,11 @@
+AppConfig :
+        host: localhost
+        port: 6000
+       user: root
+       password: secret_password
+Other:
+      Microservice:
+                         host: localhost
+                        port: 5008
+                        protocol: https
+      use_anonymous: yes
