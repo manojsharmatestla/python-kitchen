@@ -1,1 +1,1 @@
-# python-kittchen
+# python-kitchen
